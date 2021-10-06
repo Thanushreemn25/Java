@@ -2,6 +2,6 @@ class Motor{
 
 Motor()
 {
-    System.out.println("Motor Constructor called");
+    System.out.println("Motorn Constructor called");
 }
 }
