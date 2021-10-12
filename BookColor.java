@@ -1,0 +1,4 @@
+enum BookColor{
+
+     BLUE,WHITE,BLACK,GREEN,ORANGE,GREY;
+}
