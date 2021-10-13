@@ -1,0 +1,11 @@
+enum BiCycleType{
+
+    ELECTRIC,
+	BMX,
+	FOLDING,
+	MOUNTAIN,
+	ROAD,
+	TOURING,
+	RECUMBENT;
+	
+}

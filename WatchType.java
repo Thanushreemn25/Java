@@ -1,0 +1,5 @@
+enum WatchType{
+
+   QUARTZ,DIVING,AUTOMATIC,CHRONOGRAPH;
+
+}
